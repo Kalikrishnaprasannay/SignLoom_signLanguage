@@ -109,7 +109,8 @@ Gesture Augmentation | ImageDataGenerator
 
 
 👥 Team
-Rudraraju Srihita
+
+Rudraraju Srihita 
 
 Kalikrishna Prasanna Y
 
