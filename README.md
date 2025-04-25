@@ -1,5 +1,5 @@
 🤟 SignLoom - Real-Time Sign Language Interpreter
-<!-- Replace with actual demo link if hosted -->
+
 
 🚀 Overview
 SignLoom is a real-time sign language interpreter designed to bridge communication gaps for the deaf and hard-of-hearing community. Using deep learning, computer vision, and a user-friendly interface, it translates sign language gestures into text and speech instantly.
@@ -45,14 +45,22 @@ Anyone interested in learning sign language
 
 🔧 Tech Stack
 
-Category | Technology
-Model & Training | TensorFlow, Keras, MobileNetV2
+Category | Technology,
+
+Model & Training | TensorFlow, Keras, MobileNetV2,
+
 Hand Detection | MediaPipe
+
 Real-Time Video Capture | OpenCV
+
 Frontend UI | Streamlit
+
 Audio Output | pyttsx3 (Text to Speech)
+
 Data Processing | NumPy, PIL, Scikit-learn
+
 Gesture Augmentation | ImageDataGenerator
+
 
 🏗️ System Architecture
 1.Capture frames from webcam using OpenCV.
@@ -102,6 +110,7 @@ Gesture Augmentation | ImageDataGenerator
 
 👥 Team
 Rudraraju Srihita
+
 Kalikrishna Prasanna Y
 
 
