@@ -110,9 +110,9 @@ Gesture Augmentation | ImageDataGenerator
 
 👥 Team
 
-Rudraraju Srihita 
+Rudraraju Srihita | https://github.com/SrihitaRudraraju | rudrarajusrihitha@gmail.com
 
-Kalikrishna Prasanna Y
+Kalikrishna Prasanna Y | https://github.com/Kalikrishnaprasannay | krishnaprasanna2003@gmail.com
 
 
 
