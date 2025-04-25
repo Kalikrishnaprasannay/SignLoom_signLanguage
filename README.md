@@ -89,7 +89,7 @@ Gesture Augmentation | ImageDataGenerator
 📹 Demo
 🎥 Watch our final working demo here:
 
-👉 [Click here to watch the demo](https://drive.google.com/uc?export=preview&id=1cbmuq5SfXGbRaMFI3HlDmbrCwpblr0tW)
+👉 🎥 [Watch Final Demo](videos/final_demo_team_8056.mp4)
 
 
 📌 Future Scope
