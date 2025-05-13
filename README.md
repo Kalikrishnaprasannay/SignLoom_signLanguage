@@ -118,5 +118,5 @@ Kalikrishna Prasanna Y | https://github.com/Kalikrishnaprasannay | krishnaprasan
 
 
 
-🌍 Let's build a more inclusive world, one gesture at a time. ✨
+🌍 Let's build a more inclusive world, one gesture at a time. Ensuring that even **Silence Speaks**✨
 
