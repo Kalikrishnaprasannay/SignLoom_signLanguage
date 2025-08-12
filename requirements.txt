@@ -1,0 +1,21 @@
+# Refer the `guides` folder for pre-requisites
+
+# Core UI framework
+streamlit>=1.30.0
+
+# Image handling
+Pillow>=10.0.0
+
+# Machine Learning & Deep Learning
+tensorflow>=2.13.0
+numpy>=1.24.0
+
+# Computer Vision
+opencv-python>=4.8.0
+mediapipe>=0.10.5
+
+# Audio input and TTS
+speechrecognition>=3.10.0
+pyttsx3>=2.90
+pyaudio ; platform_system == "Windows"
+google-generativeai>=0.3.2
